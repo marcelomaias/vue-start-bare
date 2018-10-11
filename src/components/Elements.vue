@@ -117,7 +117,7 @@
                 <textarea></textarea>
               </section>
               <section>
-                <input type="checkbox" id="check1" name="check1" /> 
+                <input type="checkbox" id="check1" name="check1" />
                 <label for="check1">This is a checkbox.</label>
               </section>
               <section>
